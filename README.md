@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=F70059&center=true&vCenter=true&width=700&lines=Omyma+AlKurd;🚀+Full+Stack+Developer;💻+Passionate+about+Coding;🌍+Building+Web+Solutions" alt="Typing SVG" />
 </h1>
 
-<!-- ✨ فاصل بسيط عشان الشكل يطلع أنيق -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/omymakurd/omymakurd/main/assets/banner.svg" width="820" alt="Omyma AlKurd Banner"/>
 </p>
@@ -31,7 +31,7 @@ I focus on real projects — from portfolio sites to e-learning platforms.
 
 ## 🛠️ Tech Snapshot
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,django,cs,wordpress,mysql,mongodb,git,docker&perline=8" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,django,cs,wordpress,mysql,mongodb,git,github&perline=8" alt="tech icons"/>
 </p>
 
 ---
