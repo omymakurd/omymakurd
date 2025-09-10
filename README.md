@@ -89,7 +89,7 @@ Click the button to view project documentation (PDF):
 ---
 
 ## 🌟 Fun & Extras
-- I speak **Arabic & English** (basic Turkish).  
+- I speak **Arabic & English**  
 - Constant learner: exploring cloud & DevOps basics.  
 - Quote for the day:  
   <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/></p>
