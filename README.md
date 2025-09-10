@@ -5,7 +5,7 @@
 
 <!-- ✨ فاصل بسيط عشان الشكل يطلع أنيق -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omymakurd/omymakurd/main/assets/divider.gif" width="600" alt="divider"/>
+  <img src="https://raw.githubusercontent.com/omymakurd/omymakurd/main/assets/banner.svg" width="820" alt="Omyma AlKurd Banner"/>
 </p>
 
 
