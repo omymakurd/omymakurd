@@ -46,23 +46,27 @@ I focus on real projects — from portfolio sites to e-learning platforms.
 
 ---
 
-## 🚀 Featured Projects (click to open)
+## 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
-### 🌐 Portfolio Website
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=google-chrome)](https://omymakurd.github.io/my-portfolio/index.html)
-[![Source](https://img.shields.io/badge/Source-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/omymakurd/my-portfolio)
+
+### 🌐 Portfolio Website  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=google-chrome)](https://omymakurd.github.io/my-portfolio/index.html)  
+[![Source](https://img.shields.io/badge/Source-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/omymakurd/my-portfolio)  
 
 A responsive portfolio built with HTML/CSS/JS showcasing projects, CV and contact info.  
-</td>
 
+</td>
 <td width="50%" valign="top">
-### 🏥 Doctor Academy (E-Learning)
-[![Docs](https://img.shields.io/badge/Documentation-GoogleDrive-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Ih-MahGvQaVdGnmDppbZLS_HOmYrneAa/view?usp=sharing)
-[![Source](https://img.shields.io/badge/Source-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/omymakurd/doctor-academy)
+
+### 🏥 Doctor Academy (E-Learning)  
+[![Docs](https://img.shields.io/badge/Documentation-GoogleDrive-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Ih-MahGvQaVdGnmDppbZLS_HOmYrneAa/view?usp=sharing)  
+[![Source](https://img.shields.io/badge/Source-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/omymakurd/doctor-academy)  
 
 E-learning platform with roles (admin/instructor/student), quizzes, dashboards and payment (Stripe/PayPal).  
+
 </td>
 </tr>
 </table>
