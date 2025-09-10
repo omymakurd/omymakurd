@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" alt="coding gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=F70059&center=true&vCenter=true&width=600&lines=Omyma+AlKurd;🚀+Full+Stack+Developer;💻+Passionate+about+Coding;🌍+Building+Web+Solutions" alt="Typing SVG" />
 </p>
+
 
 ---
 
